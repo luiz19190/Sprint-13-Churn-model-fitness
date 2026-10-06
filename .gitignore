@@ -247,3 +247,9 @@ node_modules/
 Thumbs.db
 desktop.ini
 .DS_Store
+
+# Vídeos gerados (brag/Hyperframes)
+brag-output*/
+
+# Material de post (LinkedIn): fica local
+linkedin/
